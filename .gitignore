@@ -1,0 +1,37 @@
+# Virtual Environment
+tceproj/
+
+# Logs
+alert_logs*.txt
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# IDE
+.vscode/
+.idea/
+
+# Outros
+.env
+*.log
+*.sqlite3
+
+# app
+cemi/

@@ -38,3 +38,6 @@ cemi/
 
 # bkp
 *.zip
+
+# virtual env out
+sqlX/
